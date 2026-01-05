@@ -1,5 +1,4 @@
+*.3mf
+*.step
+*.stp
 *.FCBak
-parts/*.3mf
-parts/*.stl
-parts/*.step
-
